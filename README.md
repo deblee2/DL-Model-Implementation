@@ -2,14 +2,11 @@
 This repository is for implementing popular deep learning model architectures.
 
 # Environment
------------------
-
   tensorflow==2.4.0
   numpy==1.19.4
 
 
 # Usage
------------------
 ## Training
 To train a model, run train.py.
 
@@ -17,7 +14,6 @@ To train a model, run train.py.
 To evaluate the model, run evaluate.py.
 
 # Results
------------------
 |Network|Epoch|Lr|top1@prec(test)|
 |------|---|---|----|
 |Alexnet|50|0.001|
