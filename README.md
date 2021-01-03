@@ -14,10 +14,10 @@ To train a model, run train.py.
 To evaluate the model, run evaluate.py.
 
 # Results
-|Network|Epoch|Lr|top1@prec(test)|
-|------|---|---|----|
-|Alexnet|50|0.001|
-|ZFNet|50|0.01|83%|
+|Network|Epoch|Lr|top1@prec(test)|Data|
+|------|---|---|----|------|
+|Alexnet|50|0.001|98.9%|Mnist|
+|ZFNet|50|0.01|83%|Mnist|
 |-|-|-|
 |-|-|-|
 |-|-|-|
