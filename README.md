@@ -2,6 +2,7 @@
 This repository is for implementing popular deep learning model architectures.
 
 # Environment
+  
   tensorflow==2.4.0
   numpy==1.19.4
 
