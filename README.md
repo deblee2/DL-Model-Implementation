@@ -6,7 +6,6 @@ This repository is for implementing popular deep learning model architectures.
   tensorflow==2.4.0
   numpy==1.19.4
 
-
 # Usage
 ## Training
 To train a model, run train.py.
