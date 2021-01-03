@@ -14,8 +14,8 @@ To train a model, run train.py.
 To evaluate the model, run evaluate.py.
 
 # Results
-|Network|Epoch|Lr|top1@prec(test)|Data|
-|------|---|---|----|------|
+|Network|Epoch|Lr|Accuracy|Data|
+|------|---|---|---|------|
 |Alexnet|50|0.001|98.9%|Mnist|
 |ZFNet|50|0.01|83%|Mnist|
 |-|-|-|
